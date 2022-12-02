@@ -8,7 +8,7 @@ The direction the robot is pointed, usually expressed as an angle in degrees.
 Inertial Measurement Unit, a sensor that combines both an accelerometer and a gyroscope into a single sensor.
 
 ## Java
-One of the three officially supported programmerding languages.
+One of the three officially supported programming languages.
 
 ## KOP
 Kit of Parts, the collection of items listed on the Kickoff Kit checklists, distributed to the team via FIRST Choice, or paid for completely (except shipping) with a Product Donation Voucher (PDV).
