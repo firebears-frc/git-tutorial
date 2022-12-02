@@ -7,7 +7,7 @@ double kArmKp = 50.0;
 double kArmPKey = 2.0;
 
 // How many times a second to refresh sensor data
-static constexpr int refreshRate = 50;
+static constexpr int refreshRate = 120;
 
 void RobotInit() {
   // Set the Arm position setpoint and P constant to Preferences if the keys
