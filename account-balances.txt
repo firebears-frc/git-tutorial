@@ -1,6 +1,6 @@
 Name    Balance
-Candace $8,441.82
-Francis $6,206.33
-Karl    $4,584.51
-Haile   $5,627.94
-Kim $7,913.01
+Candace $69,101.82
+Francis $69,420.33
+Karl    $69,696.51
+Haile   $69,360.94
+Kim     $69,420.01
